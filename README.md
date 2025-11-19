@@ -45,9 +45,6 @@ L'objectif est d'automatiser la recherche d'insights stratégiques à partir de 
 
 Ouvrez un terminal PowerShell et placez‑vous à la racine du projet :
 
-```powershell
-cd C:\Users\touat\Downloads\pattern_internship-main\pattern_internship-main
-```
 
 Créer et activer l'environnement virtuel (Windows PowerShell) :
 
