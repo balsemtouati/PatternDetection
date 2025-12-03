@@ -211,6 +211,30 @@ Ce projet combine des approches RAG, FAISS et LLM pour produire une plateforme d
 
 ---
 
-## Contact
+## Screenshots
 
-Pour toute question ou contribution : ajoutez une issue sur GitHub ou contactez l'équipe projet.
+Quelques captures d'écran de la plateforme (interface et visualisations) :
+<p>
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200819.png" alt="Screenshot 200819" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200831.png" alt="Screenshot 200831" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200843.png" alt="Screenshot 200843" width="320" />
+</p>
+<p>
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200904.png" alt="Screenshot 200904" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200935.png" alt="Screenshot 200935" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 200952.png" alt="Screenshot 200952" width="320" />
+</p>
+<p>
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201026.png" alt="Screenshot 201026" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201053.png" alt="Screenshot 201053" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201110.png" alt="Screenshot 201110" width="320" />
+</p>
+<p>
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201138.png" alt="Screenshot 201138" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201204.png" alt="Screenshot 201204" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201219.png" alt="Screenshot 201219" width="320" />
+</p>
+<p>
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201234.png" alt="Screenshot 201234" width="320" />
+<img src="ImagesPlateformes/Capture d'écran 2025-12-01 201301.png" alt="Screenshot 201301" width="320" />
+</p>
